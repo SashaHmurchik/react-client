@@ -1,0 +1,15 @@
+target/
+.idea/
+*.iml
+out/
+logs/
+.DS_Store
+
+.classpath
+.project
+.settings/
+bin/
+WebContent/
+META-INF/
+*.springBeans
+node_modules/
